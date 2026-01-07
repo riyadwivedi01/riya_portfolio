@@ -9,7 +9,7 @@ const projectsData = [
     image: 'movie.jpg',
     tags: ['React', 'Tailwind CSS', 'FastAPI', 'TMDB API'],
     githubUrl: 'https://github.com/riyadwivedi01/emotions-based-movie-recomendation-',
-    liveUrl: '#',
+    liveUrl: 'https://falacie-s.vercel.app/',
   },
   {
     title: 'Weather App',

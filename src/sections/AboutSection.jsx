@@ -22,7 +22,7 @@ const AboutSection = () => {
                 >
                     <div className="about-image-wrapper">
                         <img 
-                            src="riya.jpg" 
+                            src="Riyaa.jpeg" 
                             alt="Profile" 
                             className="about-image"
                         />

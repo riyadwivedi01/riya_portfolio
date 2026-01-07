@@ -8,7 +8,7 @@ const educationData = [
         institution: "Pranveer Singh Institute of Technology, Kanpur",
         duration: "2022 - Present",
         // score: "CGPA: 8.5/10"
-        score: "Percentage: 66%"
+        score: "Percentage: 68%"
     },
     {
         degree: "Class XII (Senior Secondary)",
