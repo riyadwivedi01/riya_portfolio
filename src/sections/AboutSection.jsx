@@ -50,7 +50,7 @@ const AboutSection = () => {
 
                         {/* ---------- RESUME BUTTON WITH DRIVE LINK ---------- */}
                  <motion.a
-                        href="https://drive.google.com/file/d/1eSI-FO2m8KgyCIBmYyADuAH6_WqJ3GX0/view?usp=sharing"
+                        href="https://drive.google.com/file/d/1LX81IaXgWOtzaf4T1NYTkDhmuFH9K0il/view?usp=sharing"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="resume-button"
