@@ -38,8 +38,8 @@ const AboutSection = () => {
                     transition={{ duration: 0.9, ease: 'easeOut', delay: 0.2 }}
                 >
                     <p className="about-text">
-                        Hi, I am Riya, final-year Computer Science Engineering student passionate about frontend development and web technologies. 
-                        I enjoy turning ideas into interactive and user-friendly digital solutions while continuously improving my skills.
+                        Hi, I am Riya, a Computer Science Engineering graduate passionate about web development and modern web technologies. 
+                        I build responsive, interactive, and user-friendly web applications while continuously learning new technologies and improving my skills.
                     </p>
 
                     <p className="about-text">
@@ -50,7 +50,7 @@ const AboutSection = () => {
 
                         {/* ---------- RESUME BUTTON WITH DRIVE LINK ---------- */}
                  <motion.a
-                        href="https://drive.google.com/file/d/1LX81IaXgWOtzaf4T1NYTkDhmuFH9K0il/view?usp=sharing"
+                        href="https://drive.google.com/file/d/1sahSdOFqQ07dYZsK-bx732Zfd-fdmCph/view?usp=sharing"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="resume-button"

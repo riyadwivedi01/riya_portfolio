@@ -7,8 +7,8 @@ const educationData = [
         degree: "Bachelor of Technology, CSE",
         institution: "Pranveer Singh Institute of Technology, Kanpur",
         duration: "2022 - Present",
-        // score: "CGPA: 8.5/10"
-        score: "Percentage: 68%"
+        score: "CGPA: 6.44"
+        // score: "Percentage: 68%"
     },
     {
         degree: "Class XII (Senior Secondary)",

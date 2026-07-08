@@ -6,7 +6,7 @@ const experienceData = [
     {
         role: "Frontend Developer Intern",
         company: "Softnix Infotech Pvt. Ltd",
-        duration: "Sept 2025 - Ongoing",
+        duration: "Sept 2025 - Mar 2026",
         description: [
             "Developing user onboarding, search, and communication modules for a job platform using React.js and Node.js.",
             "Creating reusable UI components and integrating REST APIs for authentication and messaging.",

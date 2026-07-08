@@ -383,16 +383,20 @@ body::selection {
     font-size: 17px; /* text-lg */
 }
 
+.about-content {
+    font-size: 17px;
+    max-width: 650px;   /* text ko readable banayega */
+}
+
 .about-text {
-    margin-bottom: 1rem; /* mb-4 */
-    color: #d1d5db; /* lighter gray for readability */
-    line-height: 1.1; /* better spacing */
+    margin-bottom: 1.4rem;
+    color: #d1d5db;
+    line-height: 1.7;   /* 1.1 ki jagah */
 }
 
 .about-text:last-of-type {
-    margin-bottom: 1.5rem;
+    margin-bottom: 2rem;
 }
-
 .about-links {
     display: flex;
     align-items: center;
